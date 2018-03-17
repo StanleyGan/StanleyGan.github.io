@@ -7,7 +7,7 @@ subtitle : My project and working experiences
 Education
 ---------
 
-Simon Fraser University (SFU), Canada &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2016 - Present
+Simon Fraser University (SFU), Canada &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Sep 2016 - Present
 :   
 * Pursuing _MSc-Thesis_ in Computing Science under the NSERC-CREATE funded program, MADD-Gen  
 * Graduate Fellowship holder and Entrance Scholarship holder
