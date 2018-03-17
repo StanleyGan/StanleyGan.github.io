@@ -1,6 +1,6 @@
 ---
 layout : page
-title : Resume
+title : Education and Skills
 subtitle : My education, project and working experiences
 ---
 
@@ -16,12 +16,10 @@ Education
 
 Skills
 ---------
-<details> 
-  <summary> <b>Technical Skills</b> </summary>
-+ Programming Languages: Python, R, MATLAB, C++, Bash Scripting
-+ Optimization Tools: IBM CPLEX, MATLAB Linprog
-+ Deep Learning and Machine Learning Tools: Keras, TensorFlow  
-</details>
+**Technical Skills**
+* Programming Languages: Python, R, MATLAB, C++, Bash Scripting
+* Optimization Tools: IBM CPLEX, MATLAB Linprog
+* Deep Learning and Machine Learning Tools: Keras, TensorFlow  
 
 **Transferable Skills**  
 * Independent and quick learner: Learned CPLEX Python API which has limited online resources, in 1 week
