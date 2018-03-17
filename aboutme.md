@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Researcher, exploring challenging problems in mathematics, computer science and life
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Welcome to my page! My name is Stanley Gan and I am a Malaysian, now residing in the beautiful Vancouver, Canada. I am currently a Research-based MSc student in [_Simon Fraser University (SFU)_](https://www.sfu.ca/), working under the supervision of [Prof. Leonid Chindelevitch](http://www.sfu.ca/~leonid/#/home) and [Prof. Cedric Chauve](http://www.cecm.sfu.ca/~cchauve/). My research is in the area of computational biology, focusing on applying optimization and machine learning problems in addressing biological problems.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am also currently a Research Intern in [1QBit](https://1qbit.com/). I started my internship in September 2017 and have been working on different computational intractable problems by harnessing the power of quantum computation and machine learning.  
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Before moving to Vancouver, I studied Mathematics and Computer Science in the [_University of Hong Kong (HKU)_](https://www.hku.hk/). 
