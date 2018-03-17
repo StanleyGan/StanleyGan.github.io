@@ -23,7 +23,7 @@ classification (Positive/Negative/Neutral)
 * Test accuracy for Restaurant Data (3041 training, 100 test): 84.8% > 77.2% (State-of-the-art)
 * Test accuracy for Laptop Data (3045 training, 100 test): 73.44% > 68.9% (State-of-the-art)  
 
-**Machine Learning (Computer Vision)** 
+**Machine Learning (Computer Vision)**  
 Fingerprint Liveness Detection using Neural Networks, _SFU Canada_  
 Sept 2016 – Dec 2016  
 * Developed neural network models in classifying real and fake fingerprint images (2000 training images: 1000
