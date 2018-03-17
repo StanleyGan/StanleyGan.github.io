@@ -35,7 +35,7 @@ using CPLEX Python API
 * Communicated with biologists about their prior expectations on co-infection pattern and the result of this project
 will lead to improved ecological prevention and control protocol of Lyme disease
 
-**Operational Research / Optimization Experience**
+**Operational Research / Optimization Experience**  
 **Strategic Planning and Advisory Intern** in _AECOM Asia Co. Ltd., Hong Kong_  
 _June 2015 – Aug 2015_
 * Participated in constructing a customized transport model for a major bus company in Hong Kong using different
