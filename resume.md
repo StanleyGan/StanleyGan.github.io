@@ -7,11 +7,10 @@ subtitle : My project and working experiences
 Education
 ---------
 
-Simon Fraser University (SFU), Canada &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2016 - Present
-:   *MSc-Thesis*, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Simon Fraser University (SFU), Canada &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2016 - Present
+:   
+* Pursuing _MSc-Thesis_ in Computing Science under the NSERC-CREATE funded program, MADD-Gen  
+* Graduate Fellowship holder and Entrance Scholarship holder
 
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
