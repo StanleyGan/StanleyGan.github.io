@@ -33,4 +33,14 @@ resources such as textbook, online problem sets to help students build a solid f
 * Marked assignments, midterm exams within a time frame and provided useful feedbacks to the students by
 showing common conceptual mistakes during tutorials
 * Learned to convey sophisticated concepts in simpler terms, which helps improving communication and
-presentation skills
+presentation skills  
+
+**Research Experience/Optimization Experience**  
+**Research Assistant** in _Computational Biology_ in _SFU, Canada_ Sept 2016 – Present  
+* Study the diversity of pathogenic bacteria which causes Lyme disease, Borrelia Burgdorferi in tick samples using
+mathematical and computational approaches under the supervision of Prof. Chindelevitch and Prof. Chauve
+* Mapped and aligned ~60GB Illumina short reads data using Bowtie, SRA Toolkit and ClusterW
+* Formulated mixed integer linear programs(MILP) to address different biological problems and coded MILPs
+using CPLEX Python API
+* Communicated with biologists about their prior expectations on co-infection pattern and the result of this project
+will lead to improved ecological prevention and control protocol of Lyme disease
