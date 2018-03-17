@@ -1,3 +1,9 @@
+---
+layout : page
+title : Resume
+subtitle : Project Experiences
+---
+
 **Statistical Learning (Featured Bioinformatics Topic on Kaggle)**  
 Predicting Diabetes Incidence for the Pima Indian Dataset, _SFU Canada_   
 Sept 2017 – Dec 2017  
