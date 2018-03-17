@@ -27,7 +27,7 @@ comparison application which could vastly enhance advanced molecular design for 
 communication in meeting client-oriented project deadlines
 
 **Teaching Experience**  
-**Teaching Assistant** for _Discrete Mathematics, Algorithms_ in _SFU, Canada_  &emsp; &emsp; &emsp; Jan 2017 – August 2017  
+**Teaching Assistant** for _Discrete Mathematics, Algorithms_ in _SFU, Canada_  &emsp; Jan 2017 – August 2017  
 * Conducted tutorials on topics involving logics, set theory, combinatorics, design and analysis of algorithms using
 resources such as textbook, online problem sets to help students build a solid foundation in mathematics
 * Marked assignments, midterm exams within a time frame and provided useful feedbacks to the students by
