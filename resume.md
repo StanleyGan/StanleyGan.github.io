@@ -17,7 +17,7 @@ Education
 
 Work Experiences
 ----------
-**Research Experience/Machine Learning Experience**
+**Research Experience/Machine Learning Experience**  
 **Research Intern** in _1QBit, Canada_ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2017 – Present
 * Working in the machine learning team, focusing on the aspect of integrating knowledge of advanced quantum
 computation and machine learning in the area of quantitative finance
