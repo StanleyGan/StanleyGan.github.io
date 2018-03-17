@@ -1,4 +1,6 @@
 ---
+layout: page
+title: 
 ---
 
 # The pug is sad as this page is still under construction :(
