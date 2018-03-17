@@ -30,7 +30,7 @@ navbar-links:
   - Work Experiences : "workExp"
   - Project Experiences : "projExp"
   - Publications: "pub"
-  - Download Resume: "/docs/resume.pdf"
+  - Download Resume: "docs/resume.pdf"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
