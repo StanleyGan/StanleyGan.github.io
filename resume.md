@@ -16,11 +16,12 @@ Education
 
 Skills
 ---------
-<details> <summary> Technical Skills </summary> <p>
-* Programming Languages: Python, R, MATLAB, C++, Bash Scripting
-* Optimization Tools: IBM CPLEX, MATLAB Linprog
-* Deep Learning and Machine Learning Tools: Keras, TensorFlow  
-  </p></details>
+<details> 
+  <summary> <b>Technical Skills</b> </summary>
++ Programming Languages: Python, R, MATLAB, C++, Bash Scripting
++ Optimization Tools: IBM CPLEX, MATLAB Linprog
++ Deep Learning and Machine Learning Tools: Keras, TensorFlow  
+</details>
 
 **Transferable Skills**  
 * Independent and quick learner: Learned CPLEX Python API which has limited online resources, in 1 week
