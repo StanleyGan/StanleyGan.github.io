@@ -6,7 +6,7 @@ subtitle : Project Experiences
 
 **Statistical Learning (Featured Bioinformatics Topic on Kaggle)**  
 Predicting Diabetes Incidence for the Pima Indian Dataset, _SFU Canada_   
-Sept 2017 – Dec 2017  
+_Sept 2017 – Dec 2017_  
 * Explored different statistical learning methods, including Generalized Additive Model (GAM), Gradient
 Boosting Machine(GBM), Support Vector Machine(SVM), Random Forest(RF) and Logistic Regression
 * Used VIM package in R to visualize missingness pattern and utilized Multivariate Imputation using Chained
@@ -16,7 +16,7 @@ comparable to state-of-the-art models
 
 **Deep Learning (Natural Language Processing)**  
 Aspect Based Sentiment Analysis using Deep Neural Networks, _SFU Canada_  
-Jan 2017 – May 2017  
+_Jan 2017 – May 2017_  
 * Analyzed the sentiment of a product review given an aspect of the product using Deep Memory Network (DMM)
 * Achieved test accuracy higher than state-of-the-art neural network based model in 3 classes sentiment
 classification (Positive/Negative/Neutral)
@@ -25,7 +25,7 @@ classification (Positive/Negative/Neutral)
 
 **Machine Learning (Computer Vision)**  
 Fingerprint Liveness Detection using Neural Networks, _SFU Canada_  
-Sept 2016 – Dec 2016  
+_Sept 2016 – Dec 2016_  
 * Developed neural network models in classifying real and fake fingerprint images (2000 training images: 1000
 real and 1000 fake, 2500 test images: 1000 real and 1500 fake)
 * Architectures implemented include multi-layer perceptron, CNN and a model based on different input features
@@ -35,7 +35,7 @@ extracted using local image descriptors such as BSIF and WLD
 
 **Theoretical Computer Science (Design and Analysis of Algorithm)**  
 Online Randomized Algorithm, _HKU Hong Kong and SFU Canada_  
-Aug 2015 – Jan 2016, Sept – Dec 2016  
+_Aug 2015 – Jan 2016, Sept – Dec 2016_  
 * Studied the design of competitive online algorithms using primal dual approach and applied this approach in
 analysing RANKING algorithm for online bipartite matching problem
 * Research idea developed in HKU was further investigated by Dr. Huang’s group
