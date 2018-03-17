@@ -7,8 +7,8 @@ subtitle : My project and working experiences
 Education
 ---------
 
-Simon Fraser University (SFU), Canada           Sep 2016 - Present
-:   **, Computer Science**; Awesome University (MyTown)
+Simon Fraser University (SFU), Canada &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2016 - Present
+:   *MSc-Thesis*, Computer Science**; Awesome University (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
