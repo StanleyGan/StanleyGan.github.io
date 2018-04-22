@@ -9,6 +9,7 @@ Education
 **Simon Fraser University (SFU), Canada** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Sept 2016 - Present 
 * Pursuing _MSc-Thesis_ in Computing Science under the NSERC-CREATE funded program, MADD-Gen 
 * Graduate Fellowship holder and Entrance Scholarship holder
+* KEY Graduate Big Data 2018-19 Scholarship holder
 
 **The University of Hong Kong (HKU), Hong Kong** &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; Sept 2012 - June 2016  
 * Graduated with _BSc(Hons) Mathematics with minor in Computer Science_
