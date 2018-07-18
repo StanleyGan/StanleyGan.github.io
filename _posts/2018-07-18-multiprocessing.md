@@ -8,7 +8,7 @@ Recently, I have the need to parallelize my code, especially for cross validatio
 
 Due to some reason related to `daemon` (explained in the post), we couldn't set up `Pool()` twice for each loop. Hence, we will need to define a class which overcomes that.
 
-```
+```python
 import multiprocessing
 import multiprocessing.pool as pool
 
@@ -29,7 +29,7 @@ class MyPool(pool.Pool):
 
 Say you want to parallelize two loops, first loop iterates over possible parameters you would like to experiment for your model, and 2nd loop iterates over different folds. You could do the following:
 
-```
+```python
 import multiprocessing
 import itertools
 from multiprocessing import Pool
