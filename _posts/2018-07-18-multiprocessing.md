@@ -4,7 +4,7 @@ title : Simple Code in Python 2 for multiprocessing
 tags : code
 ---
 
-Recently, I have the need to parallelize my code, especially for cross validation process in machine learning as I could not use sklearn's built in CV functions due to specific reason. I have no prior knowledge about multiprocessing and would gracefully admit that my coding skills are not splendid. However, due to the need of finishing my research project, I recently bumped into a post on stackoverflow which taught me how to parallelize nested loops in a pretty simple way. Thanks to Chris Arndt who posted his solution here: https://stackoverflow.com/questions/6974695/python-process-pool-non-daemonic. Here, I will briefly explain the code in a cross validation setting.
+Recently, I have the need to parallelize my code, especially for cross validation process in machine learning as I could not use sklearn's built in CV functions due to specific reason. I have no prior knowledge about multiprocessing and would gracefully admit that my coding skills are not splendid. However, due to the need of finishing my research project, I recently bumped into a post on stackoverflow which taught me how to parallelize nested loops in a pretty simple way. Thanks to Chris Arndt who posted his solution [here] (https://stackoverflow.com/questions/6974695/python-process-pool-non-daemonic). Here, I will briefly explain the code in a cross validation setting.
 
 Due to some reason related to `daemon` (explained in the post), we couldn't set up `Pool()` twice for each loop. Hence, we will need to define a class which overcomes that.
 
