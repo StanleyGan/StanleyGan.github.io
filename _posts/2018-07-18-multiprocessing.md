@@ -34,8 +34,9 @@ import multiprocessing
 import itertools
 from multiprocessing import Pool
 
-#Assume possible_parameters is the list of parameters you would like to try and 
-#tt_indices are the indices for each fold e.g. return by StratifiedKFold()
+#Assume possible_parameters is the list of parameters you would 
+#like to try and tt_indices are the indices for each 
+#fold e.g. return by StratifiedKFold()
 
 def inner_loop(idx, model, X,y):
     #Do something...
@@ -53,8 +54,10 @@ def outer_loop(param, X,y,model):
     n_jobs=None
     pool = Pool(n_jobs) #Default is None -> all cores
 
-    #This returns a list where each element has the format of the object returned by inner_loop i.e. accuracy in this example
-    inner_loop_returned = pool.map(inner_loop_multirun, itertools.product([idx for idx in tt_indices], [model], [X], [y]))
+    #This returns a list where each element has the format of 
+    #the object returned by inner_loop i.e. accuracy in this example
+    inner_loop_returned = pool.map(inner_loop_multirun, 
+            itertools.product([idx for idx in tt_indices], [model], [X], [y]))
         
     #Do something
     
@@ -70,8 +73,10 @@ def main():
     n_jobs=None
     myPool = MyPool(n_jobs)
     
-    #This returns a list where each element has the format of the object returned by outer_loop i.e. accuracy_list in this example
-    outer_loop_returned = myPool.map(outer_loop_multirun, itertools.product([param for param in possible_parameters], [X], [y], [model]))
+    #This returns a list where each element has the format of 
+    #the object returned by outer_loop i.e. accuracy_list in this example
+    outer_loop_returned = myPool.map(outer_loop_multirun, 
+        itertools.product([param for param in possible_parameters], [X], [y], [model]))
 
 
 if __name__ == "__main__":
